@@ -1,13 +1,15 @@
 ### Market
-**80** DiddyCoins in Circulation\
-**9,920** DiddyCoins in Reserve\
+**180** DiddyCoins in Circulation\
+**9,820** DiddyCoins in Reserve\
 **$100,000,000** Market Cap
 
-#### **1 DDY = $10080.6451613**
+#### **1 DDY = $10183.299389**
 
 ### Ledger
 |TXID   |FROM              |TO                |AMOUNT           |PAYMENT          |
 |-------|-----------------:|:-----------------|-----------------|-----------------|
+|`   11`|`*               `|`AydenI          `|`DDY          50`|`$   ,506,585.61`|#
+|`   10`|`*               `|`sweup           `|`DDY          50`|`$   ,504,032.25`|#
 |`    9`|`*               `|`megaorefarms    `|`DDY       13.21`|`$   ,130,000.00`|#
 |`    8`|`*               `|`cira_           `|`DDY           2`|`$   , 20,134.90`|#
 |`    8`|`*               `|`megaorefarms    `|`DDY           5`|`$   , 50,296.72`|#
