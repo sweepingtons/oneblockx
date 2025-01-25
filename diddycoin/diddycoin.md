@@ -1,9 +1,9 @@
 ### Markethttps://github.com/sweepingtons/oneblockx/edit/master/diddycoin/diddycoin.md
-**5440.926** DiddyCoins in Circulation\
-**4559.074** DiddyCoins in Reserve\
+**5329.676** DiddyCoins in Circulation\
+**4670.324** DiddyCoins in Reserve\
 **$100,000,000** Market Cap
 
-#### **1 DDY = $21934.27**
+#### **1 DDY = $21411.79**
 
 ### Ledger
 NOTE: A transaction ID denoted with a B was a batch order, ordered in one go to one address and then split to save power. Fuel from these orders was done for free by sweup.\
