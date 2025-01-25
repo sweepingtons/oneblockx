@@ -1,13 +1,14 @@
 ### Markethttps://github.com/sweepingtons/oneblockx/edit/master/diddycoin/diddycoin.md
-**5347.886** DiddyCoins in Circulation\
-**4652.114** DiddyCoins in Reserve\
+**5440.926** DiddyCoins in Circulation\
+**4559.074** DiddyCoins in Reserve\
 **$100,000,000** Market Cap
 
-#### **1 DDY = $21495.60**
+#### **1 DDY = $21934.27**
 
 ### Ledger
 |TXID   |FROM              |TO                |AMOUNT           |PAYMENT          |
 |-------|-----------------:|:-----------------|-----------------|-----------------|
+|`   16`|`*               `|`AydenI          `|`DDY       93.04`|`$  2,000,000.00`|
 |`   15`|`*               `|`AydenI          `|`DDY     296.943`|`$  6,000,000.00`|
 |`   14`|`*               `|`cira_           `|`DDY    2121.024`|`$ 30,000,000.00`|
 |`   13`|`*               `|`cira_           `|`DDY      1767.8`|`$ 20,000,000.00`|
