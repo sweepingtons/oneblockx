@@ -6,8 +6,12 @@
 #### **1 DDY = $21934.27**
 
 ### Ledger
+NOTE: A transaction ID denoted with a B was a batch order, ordered in one go to one address and then split to save power. Fuel from these orders was done for free by sweup. 
 |TXID   |FROM              |TO                |AMOUNT           |PAYMENT          |
 |-------|-----------------:|:-----------------|-----------------|-----------------|
+|`B  17`|`*               `|`megaorefarms    `|`DDY           8`|`$   ,175,474.16`|
+|`B  17`|`*               `|`Ravi_g          `|`DDY           1`|`$   , 21,934.27`|
+|`B  17`|`*               `|`megaorefarms    `|`DDY           6`|`$   ,131,605.67`|
 |`   16`|`*               `|`AydenI          `|`DDY       93.04`|`$  2,000,000.00`|
 |`   15`|`*               `|`AydenI          `|`DDY     296.943`|`$  6,000,000.00`|
 |`   14`|`*               `|`cira_           `|`DDY    2121.024`|`$ 30,000,000.00`|
