@@ -1,4 +1,4 @@
-### Markethttps://github.com/sweepingtons/oneblockx/edit/master/diddycoin/diddycoin.md
+### Market
 **5329.676** DiddyCoins in Circulation\
 **4670.324** DiddyCoins in Reserve\
 **$100,000,000** Market Cap
