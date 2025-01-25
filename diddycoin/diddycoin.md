@@ -1,7 +1,7 @@
 ### Market
 **67** DiddyCoins in Circulation\
 **9,933** DiddyCoins in Reserve\
-**$100,000,000** Market Cap\
+**$100,000,000** Market Cap
 
 #### **1 DDY = $10067.4519279**
 
