@@ -1,0 +1,21 @@
+
+Congratulations! You are now an owner of some DiddyCoin.
+DiddyCoin's worth scales with how much of it is in circulation.
+Only 10,000 DDY exists and more cannot be created, only deleted. 
+  
+The initial value of 10,000 DDYis $100,000,000 backed by Wolf and sweup. This is the market cap.
+
+You can calculate the worth of your DiddyCoin as follows:
+(market cap / amount of DDY in circ.) * amount of DDY
+
+For example, when DiddyCoin was first started:
+(100,000,000 / 10,000) = $10,000 per DDY
+
+You can exchange DDY for OB money by DMing @sweup on DC. 
+
+Exchanging DDY to $ costs a tiny fee, destroys the DDY in the process, and removes that money from the market cap.
+This makes the value of DiddyCoin more volatile. Doing this exchange changes the previous calculation in a linear way that makes future changes to the market more impactful.
+Moreover this creates a "Buy low, sell high" market and means you can get insanely rich lmao
+
+You can also put money into DiddyCoin's market cap. This increases the value of each coin by a not insignificant amount.
+DM sweup for more info.
