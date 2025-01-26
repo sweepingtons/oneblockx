@@ -10,6 +10,7 @@ NOTE: A transaction ID denoted with a B was a batch order, ordered in one go to 
 NOTE 2: A transaction ID denoted with a T was traced. This means that an amount of coins was lost or sold privately from the ledger, traced from hashes to that point.
 |TXID   |FROM              |TO                |AMOUNT           |PAYMENT          |
 |-------|-----------------:|:-----------------|-----------------|-----------------|
+|`   41`|`cira_           `|`*               `|`DDY     507.354`|`$    100,000,000`|
 |`   40`|`*               `|`Lemon__         `|`DDY        2000`|`$   ,196,712.19`|
 |`   39`|`*               `|`DeevYeeish840   `|`DDY        2000`|`$ 79,733,530.54`|
 |`   38`|`*               `|`Hyebi           `|`DDY          64`|`$  2,487,992.52`|
