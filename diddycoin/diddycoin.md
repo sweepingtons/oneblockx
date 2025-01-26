@@ -9,12 +9,13 @@ NOTE: A transaction ID denoted with a B was a batch order, ordered in one go to 
 NOTE 2: A transaction ID denoted with a T was traced. This means that an amount of coins was lost or sold privately from the ledger, traced from hashes to that point.
 |TXID   |FROM              |TO                |AMOUNT           |PAYMENT          |
 |-------|-----------------:|:-----------------|-----------------|-----------------|
-|`   43`|`leviisbetter    `|`*               `|`DDY     244.047`|`$ 48,809,400.00`|
-|`   42`|`*               `|`AydenI          `|`DDY    1014.709`|`$100,000,000.00`|
-|`   41`|`cira_           `|`*               `|`DDY     507.354`|`$100,000,000.00`|
-|`   40`|`*               `|`Lemon__         `|`DDY        2000`|`$   ,196,712.19`|
-|`   39`|`*               `|`DeevYeeish840   `|`DDY        2000`|`$ 79,733,530.54`|
-|`   38`|`*               `|`Hyebi           `|`DDY          64`|`$  2,487,992.52`|
+|`   44`|`leviisbetter    `|`*               `|`DDY     244.047`|`$ 48,809,400.00`|
+|`   43`|`*               `|`AydenI          `|`DDY    1014.709`|`$100,000,000.00`|
+|`   42`|`cira_           `|`*               `|`DDY     507.354`|`$100,000,000.00`|
+|`   41`|`*               `|`Lemon__         `|`DDY        2000`|`$   ,196,712.19`|
+|`   40`|`*               `|`DeevYeeish840   `|`DDY        2000`|`$ 79,733,530.54`|
+|`   39`|`*               `|`Hyebi           `|`DDY          64`|`$  2,487,992.52`|
+|`   38`|`Wolfgangbaby1   `|`AydenI          `|`DDY        1000`|`$       AUCTION`|
 |`   37`|`lolsitory       `|`*               `|`DDY           1`|`$       SPECIAL`|
 |`   36`|`*               `|`leviisbetter    `|`DDY      223.68`|`$  8,000,000.00`|
 |`   35`|`*               `|`cira_           `|`DDY      28.242`|`$  1,000,000.00`|
