@@ -1,9 +1,9 @@
 You can PR this file to perform decentralized transactions. A hash of the ledger must be included next to the transaction outside of the table.
 ### Market
-**509.354** in reserve\
-**9490.645** in circulation\
+**1014.709** in reserve\
+**8985.291** in circulation\
 **$100,000,000** Market Cap\
-**1 DDY = $197,100.64**
+**1 DDY = $98,550.42**
 
 ### Ledger
 NOTE: A transaction ID denoted with a B was a batch order, ordered in one go to one address and then split to save power. Fuel from these orders was done for free by sweup.\
