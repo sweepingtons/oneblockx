@@ -1,14 +1,15 @@
 You can PR this file to perform decentralized transactions. A hash of the ledger must be included next to the transaction outside of the table.
 ### Market
-**0** in reserve\
+**165** in reserve\
 **$100,000,000** Market Cap\
-**1 DDY = $200,000.00**
+**1 DDY = $150,375.93**
 
 ### Ledger
 NOTE: A transaction ID denoted with a B was a batch order, ordered in one go to one address and then split to save power. Fuel from these orders was done for free by sweup.\
 NOTE 2: A transaction ID denoted with a T was traced. This means that an amount of coins was lost or sold privately from the ledger, traced from hashes to that point.
 |TXID   |FROM              |TO                |AMOUNT           |PAYMENT          |
 |-------|-----------------:|:-----------------|-----------------|-----------------|
+|`   48`|`cira_           `|`*               `|`DDY         165`|`$ 33,333,333.00`|
 |`   47`|`*               `|`Squiddoz        `|`DDY       0.106`|`$     21,000.00`|
 |`   46`|`*               `|`Hyebi           `|`DDY     743.940`|`$ 59,808,592.44`|
 |`   45`|`AydenI          `|`*               `|`DDY         500`|`$ 67,200,055.91`|
