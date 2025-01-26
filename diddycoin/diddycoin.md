@@ -1,16 +1,15 @@
 You can PR this file to perform decentralized transactions. A hash of the ledger must be included next to the transaction outside of the table.
 ### Market
-**7048.356** DiddyCoins in Circulation\
-**2951.64** DiddyCoins in Reserve\
 **$100,000,000** Market Cap
 
-#### **1 DDY = $35,153.78**
+#### **1 DDY = $35,407.29**
 
 ### Ledger
 NOTE: A transaction ID denoted with a B was a batch order, ordered in one go to one address and then split to save power. Fuel from these orders was done for free by sweup.\
 NOTE 2: A transaction ID denoted with a T was traced. This means that an amount of coins was lost or sold privately from the ledger, traced from hashes to that point.
 |TXID   |FROM              |TO                |AMOUNT           |PAYMENT          |
 |-------|-----------------:|:-----------------|-----------------|-----------------|
+|`   34`|`*               `|`leviisbetter    `|`DDY      20.367`|`$   ,716,000.00`|
 |`   33`|`*               `|`DeevYeeish840   `|`DDY         107`|`$  3,625,098.41`|
 |`   32`|`*               `|`In3vitaBility   `|`DDY          64`|`$  2,122,266.42`|
 |`   31`|`*               `|`In3vitaBility   `|`DDY       9.984`|`$   ,330,000.00`|
