@@ -4,7 +4,7 @@ You can PR this file to perform decentralized transactions. A hash of the ledger
 **3060.287** DiddyCoins in Reserve\
 **$100,000,000** Market Cap
 
-#### **1 DDY = $32,676.66**
+#### **1 DDY = $33,050.98**
 
 ### Ledger
 NOTE: A transaction ID denoted with a B was a batch order, ordered in one go to one address and then split to save power. Fuel from these orders was done for free by sweup.\
