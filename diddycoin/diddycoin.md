@@ -1,10 +1,10 @@
 You can PR this file to perform decentralized transactions. A hash of the ledger must be included next to the transaction outside of the table.
 ### Market
-**6728.576** DiddyCoins in Circulation\
-**3271.424** DiddyCoins in Reserve\
+**6939.712** DiddyCoins in Circulation\
+**3060.287** DiddyCoins in Reserve\
 **$100,000,000** Market Cap
 
-#### **1 DDY = $30,567.72**
+#### **1 DDY = $32,676.66**
 
 ### Ledger
 NOTE: A transaction ID denoted with a B was a batch order, ordered in one go to one address and then split to save power. Fuel from these orders was done for free by sweup.\
