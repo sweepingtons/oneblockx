@@ -2,7 +2,7 @@ Congratulations! You are now an owner of some DiddyCoin.
 DiddyCoin's worth scales with how much of it is in circulation.
 Only 10,000 DDY exists and more cannot be created, only deleted. 
   
-The initial value of 10,000 DDYis $100,000,000 backed by Wolf and sweup. This is the market cap.
+The initial value of 10,000 DDY is $100,000,000, backed by Wolf and sweup. This is the market cap.
 
 You can calculate the worth of your DiddyCoin as follows:
 (market cap / amount of DDY in circ.) * amount of DDY
