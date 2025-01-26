@@ -3,16 +3,17 @@
 **4670.324** DiddyCoins in Reserve\
 **$100,000,000** Market Cap
 
-#### **1 DDY = $21411.79**
+#### **1 DDY = $21,960.81**
 
 ### Ledger
 NOTE: A transaction ID denoted with a B was a batch order, ordered in one go to one address and then split to save power. Fuel from these orders was done for free by sweup.\
 NOTE 2: A transaction ID denoted with a T was traced. This means that an amount of coins was lost or sold privately from the ledger, traced from hashes to that point.
 |TXID   |FROM              |TO                |AMOUNT           |PAYMENT          |
 |-------|-----------------:|:-----------------|-----------------|-----------------|
+|`   22`|`*               `|`ysyyayyyayya    `|`DDY     116.758`|`$  2,500,000.00`|
 |`   21`|`*               `|`megaorefarms    `|`               `|`$  2,778,343.83`|
 |`   20`|`megaorefarms    `|`*               `|`DDY       93.04`|`$       RESERVE`|
-|`T  19`|`REDACTED        `|`megaorefarm     `|`DDY       93.04`|`$       PRIVATE`|
+|`T  19`|`AydenI          `|`megaorefarm     `|`DDY       93.04`|`$       PRIVATE`|
 |`   18`|`megaorefarms    `|`*               `|`DDY       33.21`|`$       RESERVE`|
 |`B  17`|`*               `|`megaorefarms    `|`DDY           8`|`$   ,175,474.16`|
 |`B  17`|`*               `|`Ravi_g          `|`DDY           1`|`$   , 21,934.27`|
